@@ -31,6 +31,8 @@ tenderly.yaml
 # testing
 coverage
 
+yarn.lock
+
 # production
 build
 # yarn / eslint
